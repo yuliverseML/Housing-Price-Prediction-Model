@@ -3,6 +3,8 @@ Comparative Analysis of Regression Models
 
 A comprehensive machine learning solution for predicting housing prices using the Boston Housing dataset. This project implements and compares multiple regression models with extensive data analysis, preprocessing, and evaluation.
 
+[🏠 Boston Housing Dataset](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv) - Classic regression dataset with 506 samples and 13 features
+
 ## Table of Contents
 - [Models Implemented](#models-implemented)
 - [Features](#features)
